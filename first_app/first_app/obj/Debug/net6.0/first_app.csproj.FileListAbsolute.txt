@@ -1,0 +1,15 @@
+C:\CODE\csharpedu\first_app\first_app\bin\Debug\net6.0\first_app.exe
+C:\CODE\csharpedu\first_app\first_app\bin\Debug\net6.0\first_app.deps.json
+C:\CODE\csharpedu\first_app\first_app\bin\Debug\net6.0\first_app.runtimeconfig.json
+C:\CODE\csharpedu\first_app\first_app\bin\Debug\net6.0\first_app.dll
+C:\CODE\csharpedu\first_app\first_app\bin\Debug\net6.0\ref\first_app.dll
+C:\CODE\csharpedu\first_app\first_app\bin\Debug\net6.0\first_app.pdb
+C:\CODE\csharpedu\first_app\first_app\obj\Debug\net6.0\first_app.csproj.AssemblyReference.cache
+C:\CODE\csharpedu\first_app\first_app\obj\Debug\net6.0\first_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\csharpedu\first_app\first_app\obj\Debug\net6.0\first_app.AssemblyInfoInputs.cache
+C:\CODE\csharpedu\first_app\first_app\obj\Debug\net6.0\first_app.AssemblyInfo.cs
+C:\CODE\csharpedu\first_app\first_app\obj\Debug\net6.0\first_app.csproj.CoreCompileInputs.cache
+C:\CODE\csharpedu\first_app\first_app\obj\Debug\net6.0\first_app.dll
+C:\CODE\csharpedu\first_app\first_app\obj\Debug\net6.0\ref\first_app.dll
+C:\CODE\csharpedu\first_app\first_app\obj\Debug\net6.0\first_app.pdb
+C:\CODE\csharpedu\first_app\first_app\obj\Debug\net6.0\first_app.genruntimeconfig.cache
